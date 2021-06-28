@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/jest": "^23.3.12",
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "glob": "^7.1.7"
+  }
+}
